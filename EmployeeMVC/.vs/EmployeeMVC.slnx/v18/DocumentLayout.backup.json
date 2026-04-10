@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\C#\\BaitapDBFirst_TruongGiang\\EmployeeMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\BaitapDBFirst_TruongGiang\\EmployeeMVC\\EmployeeMVC\\Controllers\\EmployeesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeMVC\\Controllers\\EmployeesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490D848A-9E2E-0931-4C41-40BACC0FF84A}|EmployeeMVC\\EmployeeMVC.csproj|e:\\c#\\baitapdbfirst_truonggiang\\employeemvc\\employeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490D848A-9E2E-0931-4C41-40BACC0FF84A}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490D848A-9E2E-0931-4C41-40BACC0FF84A}|EmployeeMVC\\EmployeeMVC.csproj|e:\\c#\\baitapdbfirst_truonggiang\\employeemvc\\employeemvc\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490D848A-9E2E-0931-4C41-40BACC0FF84A}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{490D848A-9E2E-0931-4C41-40BACC0FF84A}|EmployeeMVC\\EmployeeMVC.csproj|e:\\c#\\baitapdbfirst_truonggiang\\employeemvc\\employeemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{490D848A-9E2E-0931-4C41-40BACC0FF84A}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -23,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\C#\\BaitapDBFirst_TruongGiang\\EmployeeMVC\\EmployeeMVC\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\C#\\BaitapDBFirst_TruongGiang\\EmployeeMVC\\EmployeeMVC\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:32:45.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\BaitapDBFirst_TruongGiang\\EmployeeMVC\\EmployeeMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Program.cs",
+              "ToolTip": "E:\\C#\\BaitapDBFirst_TruongGiang\\EmployeeMVC\\EmployeeMVC\\Program.cs",
+              "RelativeToolTip": "EmployeeMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:31:47.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "E:\\C#\\BaitapDBFirst_TruongGiang\\EmployeeMVC\\EmployeeMVC\\Models\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Models\\CompanyDbContext.cs",
+              "ToolTip": "E:\\C#\\BaitapDBFirst_TruongGiang\\EmployeeMVC\\EmployeeMVC\\Models\\CompanyDbContext.cs",
+              "RelativeToolTip": "EmployeeMVC\\Models\\CompanyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:28:18.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\C#\\BaitapDBFirst_TruongGiang\\EmployeeMVC\\EmployeeMVC\\appsettings.json",
               "RelativeDocumentMoniker": "EmployeeMVC\\appsettings.json",
@@ -30,8 +81,7 @@
               "RelativeToolTip": "EmployeeMVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-10T14:22:34.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T14:22:34.422Z"
             }
           ]
         }
